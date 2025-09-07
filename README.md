@@ -3,4 +3,4 @@ Hello World Repository
 
 
 This is my first edit in the readme-edits branch
-I am excited to see what kind if scripts we will create in this course!
+I am excited to see what kind if scripts we will create in this course! I don't have much scripting experience but I am excited to build on my knowledge. 
